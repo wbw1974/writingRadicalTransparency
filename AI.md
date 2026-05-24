@@ -1,3 +1,5 @@
+Note: Rename this file to match the AI engine in use
+
 # Gemini CLI Operational Rules
 
 These rules govern AI behavior within this repository to maintain radical transparency and protect the integrity of human-only zones.
@@ -20,4 +22,4 @@ These rules govern AI behavior within this repository to maintain radical transp
 
 ## 3. Generalizable Setup
 
-- This `GEMINI.md` file should be treated as a template for other story projects aiming for radical transparency.
+- This `AI.md` file should be treated as a template for other story projects aiming for radical transparency.
