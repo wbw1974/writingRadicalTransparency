@@ -1,4 +1,4 @@
-# Space Opera: Radical Transparency
+# Radical Transparency
 
 This project experiments with radical transparency in the creative writing process, explicitly separating AI-assisted worldbuilding and pre-writing from human-crafted narrative.
 
