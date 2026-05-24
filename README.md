@@ -12,5 +12,5 @@ This project experiments with radical transparency in the creative writing proce
 ## Transparency & Auditing
 
 - **TRANSPARENCY.md**: An audit log that tracks the project's evolution and notes where the human narrative departs from AI-assisted plans.
-- **GEMINI.md**: Operational rules for the Gemini CLI to ensure these boundaries are respected.
+- **AI.md**: Operational rules for the AI CLI to ensure these boundaries are respected.
 - **Git Commits**: Used to track contributions and maintain a clear history of changes.
